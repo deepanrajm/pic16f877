@@ -1,0 +1,1 @@
+ADC with scale conversion for temperature, displaying it in seven segment display
