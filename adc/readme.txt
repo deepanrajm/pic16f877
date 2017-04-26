@@ -1,0 +1,1 @@
+General Analog to digital conversion, and displaying in LCD
